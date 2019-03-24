@@ -1,8 +1,8 @@
 ---
-title: 
-author:
-partner:
-date:
+title: week_9_lab
+author: Max Mochizuki
+partner: Delton Ky
+date: 03/23/2019
 ---
 # Task number X-X
 
